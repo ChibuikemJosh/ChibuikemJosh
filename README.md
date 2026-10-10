@@ -154,7 +154,7 @@ Developing the concept for an AI-focused platform exploring intelligent orchestr
 </a>
 
 <a href="https:github.com/ChibuikemJosh">
-  <img src="https://raw.githubusercontent.com/ChibuikemJosh/ChibuikemJosh/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/ChibuikemJosh/ChibuikemJosh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation Dark" width="100%" />
 </a>
 
 <p>
