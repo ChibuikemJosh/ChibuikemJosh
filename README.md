@@ -150,7 +150,11 @@ Developing the concept for an AI-focused platform exploring intelligent orchestr
 <div align="center">
 
 <a href="https://github.com/ChibuikemJosh">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChibuikemJosh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChibuikemJosh&theme=tokyonight" width="100%" alt="GitHub contribution activity graph"/>
+</a>
+
+<a href="https:github.com/ChibuikemJosh">
+  <img src="https://raw.githubusercontent.com/ChibuikemJosh/ChibuikemJosh/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
 </a>
 
 <p>
